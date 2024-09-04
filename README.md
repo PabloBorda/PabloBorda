@@ -76,7 +76,6 @@ Here are some technologies I work with on a daily basis:
 
 ## 📫 **Let's Connect!**
 
-### 📫 **Let's Connect!**
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 - 🌐 [Personal Website](https://your-website.com)  
 - 📧 Email: [pablotomasborda@gmail.com](mailto:pablotomasborda@gmail.com)
