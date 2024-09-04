@@ -77,8 +77,10 @@ Here are some technologies I work with on a daily basis:
 ---
 
 ## 📫 **Let's Connect!**
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/PabloBorda)  
 - 📧 Email: [bordapablotomas@gmail.com](mailto:bordapablotomas@gmail.com)
+### 📄 [Download My CV](https://github.com/PabloBorda/PabloBorda/blob/main/cv_pablo_borda_ph.pdf)
 
 ---
 
