@@ -76,9 +76,8 @@ A Python-based web scraper for extracting insights and performing data mining.
 ---
 
 ## 📫 **Let's Connect!**
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🌐 [Personal Website](https://your-website.com)  
-- 📧 Email: [pablotomasborda@gmail.com](mailto:pablotomasborda@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/PabloBorda)  
+- 📧 Email: [bordapablotomas@gmail.com](mailto:bordapablotomas@gmail.com)
 
 ---
 
