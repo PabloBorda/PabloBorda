@@ -4,9 +4,9 @@
 
 ### 🧑‍💻 **Pablo Tomas Borda** | Senior Software Engineer & Architect
 
-🔹 **Specializations**: Machine Learning, Python, Full-Stack Development  
+🔹 **Specialization**: Machine Learning, Python, Full-Stack Development  
 🔹 **Experience**: 18+ years in software architecture, financial services, e-commerce, and more  
-🔹 **Current Focus**: Algorithmic trading, AI, and human-computer interaction
+🔹 **Current Focus**: Algorithmic trading, AI , and human-computer interaction
 
 ---
 
@@ -19,6 +19,9 @@
   - Mobile Apps (Android | PhoneGap)
   - Automation Bots ( Selenium | Mechanize  )
   - Payment Gateways Integrations
+  - Web UI Development
+  - Desktop UI Development (QT)
+  - 3D graphics on websites Three.js 
 
   
 
