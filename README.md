@@ -10,13 +10,23 @@
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🔍 **I am good at **
+- 🧠 Building
+  - WebScrappers (Huge data extraction from multiple sources, real-time data processing )
+  - TradingRobots
+  - ChromeExtensions
+  - IVRs VoiceXML (Surveys,Marketing,Banking and Payments)
+  - Mobile Apps (Android | PhoneGap)
+  - Automation Bots ( Selenium | Mechanize  )
+  - Payment Gateways Integrations
+
+  
 
 Here are some technologies I work with on a daily basis:
 
 ### **Programming Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -50,28 +60,16 @@ Here are some technologies I work with on a daily basis:
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ### **Operating Systems**
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Red Hat](https://img.shields.io/badge/-Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=flat-square&logo=gentoo&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)
 
----
 
-## 🔍 **What I’m Currently Working On**
-- 🧠 Building **Subjective Technologies**, a revolutionary approach to human-machine interaction using **AI**, **Augmented Reality**, and **Computer Vision**
-- 📊 Developing **algorithmic trading bots** using real-time **market data** and **sentiment analysis**
-- 🛠️ Exploring **Python**-based **Machine Learning** projects for automated decision-making systems
-
----
-
-## 📈 **Key Projects**
-### 🔗 [Subjective Technologies](https://github.com/your-repo-link)  
-A cognitive exoskeleton for the mind using AI, AR, and Computer Vision.
-
-### 🤖 [Trading Bots](https://github.com/your-repo-link)  
-Real-time market data processing with Python, Binance API, and sentiment analysis.
-
-### 🌍 [AI-Powered Web Scraper](https://github.com/your-repo-link)  
-A Python-based web scraper for extracting insights and performing data mining.
 
 ---
 
@@ -81,5 +79,5 @@ A Python-based web scraper for extracting insights and performing data mining.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloBorda&show_icons=true&theme=radical)  
+![Visitor Count](https://komarev.com/ghpvc/?username=PabloBorda&color=blue)
