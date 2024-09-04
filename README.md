@@ -77,7 +77,6 @@ Here are some technologies I work with on a daily basis:
 ## 📫 **Let's Connect!**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🌐 [Personal Website](https://your-website.com)  
 - 📧 Email: [pablotomasborda@gmail.com](mailto:pablotomasborda@gmail.com)
 - 💬 (https://t.me/subjectivetechnologies) ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 
