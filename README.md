@@ -72,8 +72,6 @@ Here are some technologies I work with on a daily basis:
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=flat-square&logo=gentoo&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)
 
-
-
 ---
 
 ## 📫 **Let's Connect!**
@@ -82,7 +80,7 @@ Here are some technologies I work with on a daily basis:
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 - 🌐 [Personal Website](https://your-website.com)  
 - 📧 Email: [pablotomasborda@gmail.com](mailto:pablotomasborda@gmail.com)
-- 💬 [Telegram](https://t.me/subjectivetechnologies) ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+- 💬 (https://t.me/subjectivetechnologies) ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 
 ---
 
