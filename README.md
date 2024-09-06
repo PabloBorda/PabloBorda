@@ -17,16 +17,18 @@
   - Machine Learning
   - Neural Network Optimization/Training
   - Computer Vision
-  - ChromeExtensions
+  - Google Chrome Extensions
   - IVRs VoiceXML (Surveys,Marketing,Banking and Payments)
   - Mobile Apps (Android | PhoneGap)
   - Automation Bots ( Selenium | Mechanize  )
   - Payment Gateways Integrations
-  - Web UI Development
+  - Web UI Development (JQuery | ReactJS | ReactPy)
   - Desktop UI Development (QT)
-  - 3D graphics on websites Three.js
+  - 3D graphics on websites Three.js | WebGL
   - Product Design
   - Marketing Automation
+  - SEO (Search Engine Optimization)
+  - Email Marketing
 
   
 
