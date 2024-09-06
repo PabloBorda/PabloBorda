@@ -17,6 +17,7 @@
   - Machine Learning
   - Neural Network Optimization/Training
   - Computer Vision
+  - HCI Human-Computer Interaction | Human-Centered AI
   - Google Chrome Extensions
   - IVRs VoiceXML (Surveys,Marketing,Banking and Payments)
   - Mobile Apps (Android | PhoneGap)
