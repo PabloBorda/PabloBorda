@@ -14,6 +14,8 @@
 - 🧠 Building
   - WebScrappers (Huge data extraction from multiple sources, real-time data processing )
   - TradingRobots
+  - Machine Learning
+  - Neural Network Optimization/Training 
   - ChromeExtensions
   - IVRs VoiceXML (Surveys,Marketing,Banking and Payments)
   - Mobile Apps (Android | PhoneGap)
