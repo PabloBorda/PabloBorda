@@ -15,7 +15,8 @@
   - WebScrappers (Huge data extraction from multiple sources, real-time data processing )
   - TradingRobots
   - Machine Learning
-  - Neural Network Optimization/Training 
+  - Neural Network Optimization/Training
+  - Computer Vision
   - ChromeExtensions
   - IVRs VoiceXML (Surveys,Marketing,Banking and Payments)
   - Mobile Apps (Android | PhoneGap)
