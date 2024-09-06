@@ -13,7 +13,7 @@
 ## 🔍 **I am good at **
 - 🧠 Building
   - WebScrappers (Huge data extraction from multiple sources, real-time data processing )
-  - TradingRobots
+  - TradingRobots Quantitative Trading
   - Machine Learning
   - Neural Network Optimization/Training
   - Computer Vision
@@ -24,7 +24,9 @@
   - Payment Gateways Integrations
   - Web UI Development
   - Desktop UI Development (QT)
-  - 3D graphics on websites Three.js 
+  - 3D graphics on websites Three.js
+  - Product Design
+  - Marketing Automation
 
   
 
